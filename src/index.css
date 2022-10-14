@@ -456,7 +456,7 @@ h5 {
     width: 100px;
     height: 100px;
     transform: rotate(-90deg); /* Fix the orientation */
-    margin-left: 36%;
+    margin-left: 39%;
   }
   
   .compl-div {
@@ -476,6 +476,7 @@ h5 {
   nav {
   margin: 0;
   padding: 2% 12% 1% 1%;
+  width: 450px;
   }
 
 
