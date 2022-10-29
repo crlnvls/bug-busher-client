@@ -2,6 +2,8 @@
 
 Debugging App made with React, Flask and PostgreSQL.
 
+Server side [here](https://github.com/crlnvls/bug-busher-server)
+
 Demo: [https://bug-basher.netlify.app/](https://bug-basher.netlify.app/)
 
 ## Available Scripts
